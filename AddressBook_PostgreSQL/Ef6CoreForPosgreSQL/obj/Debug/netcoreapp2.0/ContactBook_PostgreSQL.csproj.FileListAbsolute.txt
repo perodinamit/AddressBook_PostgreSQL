@@ -1,0 +1,12 @@
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\ContactBook_PostgreSQL.deps.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\ContactBook_PostgreSQL.runtimeconfig.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\ContactBook_PostgreSQL.runtimeconfig.dev.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\ContactBook_PostgreSQL.dll
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\ContactBook_PostgreSQL.pdb
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\ContactBook_PostgreSQL.AssemblyInfoInputs.cache
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\ContactBook_PostgreSQL.AssemblyInfo.cs
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\ContactBook_PostgreSQL.dll
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\ContactBook_PostgreSQL.pdb

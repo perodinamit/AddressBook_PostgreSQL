@@ -1,0 +1,13 @@
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.deps.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.runtimeconfig.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.runtimeconfig.dev.json
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.dll
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\bin\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.pdb
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.AssemblyInfoInputs.cache
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.AssemblyInfo.cs
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.dll
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.pdb
+C:\Users\mcurcic\Downloads\EntityFramework-.netCore-PostgresSQLconnection-master\EntityFramework-.netCore-PostgresSQLconnection-master\Ef6CoreForPosgreSQL\obj\Debug\netcoreapp2.0\Ef6CoreForPosgreSQL.csprojAssemblyReference.cache
